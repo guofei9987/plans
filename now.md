@@ -1,4 +1,14 @@
 [日记账](2017日记账.xlsx)
+
+
+
+
+
+
+
+
+
+
 - [x] [个人网站教程](http://blog.csdn.net/yuexianchang/article/details/53431703)
 我在阿里云上买了个域名，已经解析到了github，实名认证审核中，所以3~5天后继续这个项目
 阿里云账号guofei9987 密码w

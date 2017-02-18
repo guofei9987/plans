@@ -2,6 +2,6 @@ git add -A
 git commit -m "AutoUpload"
 echo ok
 git push origin master
-echo 上传完毕
+echo plans上传完毕
 echo %date%%time%
 pause

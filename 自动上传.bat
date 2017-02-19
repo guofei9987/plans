@@ -1,3 +1,4 @@
+cd C:\Users\guofei\Desktop\git\plans
 python Do_Before_Uploading.py
 git add -A
 git commit -m "AutoUpload"

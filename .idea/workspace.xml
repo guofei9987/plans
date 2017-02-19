@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Do_Before_Uploading.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Do_Before_Uploading.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Do_Before_Uploading.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
@@ -42,16 +42,6 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -84,8 +74,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1540" />
-    <option name="y" value="20" />
+    <option name="x" value="-1608" />
+    <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="886" />
   </component>
@@ -401,7 +391,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1540" y="20" width="1616" height="886" extended-state="0" />
+    <frame x="-1608" y="-8" width="1616" height="886" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -502,6 +492,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Do_Before_Uploading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -509,14 +507,6 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>

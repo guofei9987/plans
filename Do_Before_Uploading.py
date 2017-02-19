@@ -21,8 +21,20 @@ t_str = '2015-04-07 19:11:21'
 d = datetime.datetime.strptime(t_str, '%Y-%m-%d %H:%M:%S')#把str转化为datetime.datetime
 print(type(d))
 
+import time
+a=time.localtime(0)
+print(a)
+
+
+
+
+
 
 print("已经完成时间表的读写")
+
+import time
+time.sleep(3)
+
 sys.exit()
 
 

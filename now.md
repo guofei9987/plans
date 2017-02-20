@@ -19,7 +19,7 @@
 - [ ] 新浪微博加V
 - [ ] 中级经济师等一系列证书验证
 - [ ] 研究Atom的export到pdf和mobi
-- [ ] 写一个自动计算剩余时间的python脚本
+- [x] 写一个自动计算剩余时间的python脚本
 
 - [ ] 工作居住证
 http://more.baidu.com/bszn/jzz/20141112/n28212.html

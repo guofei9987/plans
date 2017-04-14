@@ -20,7 +20,7 @@ data=sheet1.cell(3,5).value
 #写入
 import win32com.client
 xlApp = win32com.client.Dispatch('Excel.Application') #打开EXCEL，这里不需改动
-xlBook = xlApp.Workbooks.Open("C:\\Users\\guofei\\Desktop\\git\\plans\\2017日记账.xlsx")
+xlBook = xlApp.Workbooks.Open("C:\\Users\\guofe\\Desktop\\git\\plans\\2017.xlsx")
 xlSht2=xlBook.Worksheets("列表")
 xlSht2.Cells(ind,2).Value = data #可以用这种方法给指定的单元格赋值
 xlBook.Close(SaveChanges=1) #完成 关闭保存文件

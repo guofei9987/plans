@@ -13,7 +13,7 @@ ind=ind-33
 
 #读取excel
 import xlrd
-workbook=xlrd.open_workbook("2017日记账.xlsx")
+workbook=xlrd.open_workbook("2017.xlsx")
 sheet1=workbook.sheet_by_name("2月")
 data=sheet1.cell(3,5).value
 

@@ -15,8 +15,8 @@ ind=ind-33
 import xlrd
 workbook=xlrd.open_workbook("2017.xlsx")
 sheet1=workbook.sheet_by_name("12月")
-data1=sheet1.cell(3,5).value#未完成的总任务工期
-data2=sheet1.cell(3,8).value#总任务工期
+data1=sheet1.cell(2,5).value#未完成的总任务工期
+data2=sheet1.cell(2,8).value#总任务工期
 
 
 #写入

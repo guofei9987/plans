@@ -3,6 +3,7 @@ import sys
 import getopt
 
 
+
 opts, args = getopt.getopt(sys.argv[1:],[] ,[])
 
 #获取现在时间，并确定写入那个cell中
@@ -22,7 +23,8 @@ data2=sheet1.cell(2,8).value#总任务工期
 #写入
 import win32com.client
 xlApp = win32com.client.Dispatch('Excel.Application') #打开EXCEL，这里不需改动
-xlBook = xlApp.Workbooks.Open("C:\\Users\\guofei\\Desktop\\gitH\\plans\\2017.xlsx")
+osdir=os.getcwd()
+xlBook = xlApp.Workbooks.Open(osdir+"//2017.xlsx")
 xlSht2=xlBook.Worksheets("列表")
 xlSht2.Cells(ind,2).Value = data2-data1-ind #可以用这种方法给指定的单元格赋值
 xlBook.Close(SaveChanges=1) #完成 关闭保存文件

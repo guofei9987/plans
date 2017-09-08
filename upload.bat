@@ -1,4 +1,4 @@
-cd C:\Users\guofei\Desktop\gitH\plans
+cd C:\Users\guofei\Desktop\GitHub\plans
 echo off
 python Do_Before_Uploading.py
 git add -A

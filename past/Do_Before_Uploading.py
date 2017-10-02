@@ -7,11 +7,10 @@ import getopt
 opts, args = getopt.getopt(sys.argv[1:],[] ,[])
 
 #获取现在时间，并确定写入那个cell中
-import datetime
-now = datetime.datetime.now()
-start=datetime.datetime.strptime('2017-02-01','%Y-%m-%d')
-ind=(now-start).days
-
+import time
+ThisTime=time.localtime()
+ind=ThisTime.tm_yday
+ind=ind-33
 
 #读取excel
 import xlrd

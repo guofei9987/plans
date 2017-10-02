@@ -9,7 +9,7 @@ opts, args = getopt.getopt(sys.argv[1:],[] ,[])
 #获取现在时间，并确定写入那个cell中
 import datetime
 now = datetime.datetime.now()
-start=datetime.datetime.strptime('2017-02-01','%Y-%m-%d')
+start=datetime.datetime.strptime('2017-01-31','%Y-%m-%d')
 ind=(now-start).days
 
 

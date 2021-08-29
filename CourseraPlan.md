@@ -94,11 +94,6 @@ https://www.coursera.org/learn/os-pku
 https://www.coursera.org/learn/program-code
 0USD
 
-# 如何学习：学习困难科目的实用思维方法
-美国加州大学圣地亚哥分校
-
-https://www.coursera.org/learn/learning-how-to-learn
-
 
 # 敏捷开发
 Drive to Value with Agile Methods
@@ -164,8 +159,3 @@ Andrew Ng 牛不牛？当然牛！但是课好不好？这东西见仁见智。�
 # 想上的
 北大的，有一些好课
 https://www.coursera.org/pku
-
-# 进行中
-
-真格基金-北大创业课堂
-https://www.coursera.org/learn/zhenge-beida-zaixian-chuangye
